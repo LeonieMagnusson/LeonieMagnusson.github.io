@@ -19,14 +19,30 @@
   },
   "work": [
     {
+      "name": "Art Faculty, University of Gothenburg",
       "company": "University of Gothenburg",
       "position": "Frontend Web Developer",
       "startDate": "2024-08",
+      "endDate": "2024-10",
       "location": "Gothenburg, Sweden",
-      "summary": "Frontend developer for the PARSE-journal: www.parsejournal.com",
-      "highlights": []
+      "summary": "I was the sole developer responsible for developing and maintaining the WordPress site PARSE-journal (www.parsejournal.com) during a temporary contract. My tasks included modifying layouts, fixing bugs, implementing new features, and cleaning up the codebase. I created a CI/CD pipeline using GitHub Actions for automatic deployment of the website upon changes and developed comprehensive documentation for setting up the workspace environment and for routine tasks. The environment ran locally in a Docker container, and I worked with PHP, JavaScript, CSS, and HTML. Additionally, I implemented code linting to ensure code quality.",
+      "highlights": [
+        "WordPress",
+        "UI/UX",
+        "PHP",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "GitHub",
+        "CI/CD",
+        "Docker",
+        "Visual Studio Code",
+        "Terminal"
+      ]
     },
     {
+      "name": "Purple Lantern Games",
       "company": "Purple Lantern Games",
       "position": "Founder, Designer & Illustrator",
       "startDate": "2021-11",
@@ -34,21 +50,25 @@
       "highlights": []
     },
     {
+      "name": "Konstkåren, University of Gothenburg",
       "company": "University of Gothenburg",
-      "position": "Chairperson at Konstkåren",
+      "position": "Chairperson",
       "startDate": "2022-06",
       "endDate": "2023-06",
       "location": "Gothenburg, Sweden",
       "highlights": []
     },
     {
-      "company": "Albert AB",
+      "name": "Albert",
+      "company": "Albert",
       "position": "Design Intern",
       "startDate": "2021-09",
       "endDate": "2021-12",
+      "location": "Gothenburg, Sweden",
       "highlights": []
     },
     {
+      "name": "Kungsbacka Kommun",
       "company": "Kungsbacka Kommun",
       "position": "German Substitute Teacher",
       "startDate": "2021-02",
@@ -57,6 +77,7 @@
       "highlights": []
     },
     {
+      "name": "Strawbees",
       "company": "Strawbees",
       "position": "Designer",
       "startDate": "2020-09",
@@ -68,23 +89,25 @@
   "education": [
     {
       "institution": "Burg Giebichenstein University of Art and Design",
-      "area": "Industrial Design",
-      "studyType": "Bachelor's degree",
+      "area": "",
+      "studyType": "B.A. Industrial Design",
       "startDate": "2015",
       "endDate": "2020",
       "summary": "Specialized in design of playing and learning."
     },
     {
       "institution": "University of Gothenburg",
-      "area": "Child Culture Design",
-      "studyType": "Master's",
+      "area": "",
+      "studyType": "M.A. Child Culture Design",
       "startDate": "2018",
       "endDate": "2022"
     },
     {
       "institution": "University of Gothenburg",
-      "area": "Software Engineering and Management",
+      "area": "I pursued additional courses alongside my main studies to explore my interest in software development. These courses included Mathematics, User Research, and Java Programming.",
+      "studyType": "Software Engineering and Management",
       "startDate": "2020",
+      "endDate": "2020",
       "summary": "Additional coursework."
     }
   ],
