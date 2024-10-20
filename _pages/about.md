@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 👩🏻‍💻 about
 permalink: /
 subtitle: Design | Board Games | Webpages | UI | UX
 
