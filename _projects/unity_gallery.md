@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Unity 3D Art Gallery
+description: Explorative and playful portfolio game
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+importance: 5
 category: work
 ---
 

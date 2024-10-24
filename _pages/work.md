@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: work
 icon:
-permalink:
+permalink: /work/
 description:  Soon, you’ll be able to view the projects I’ve been working on.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

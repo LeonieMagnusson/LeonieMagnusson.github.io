@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: ui/ux
 icon:
-permalink:
+permalink: /ui-ux/
 description:  Soon, you’ll be able to view the projects I’ve been working on.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

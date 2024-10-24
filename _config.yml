@@ -195,6 +195,7 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+
 announcements:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
