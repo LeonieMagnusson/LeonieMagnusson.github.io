@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 💼 projects
+title: projects
+icon: 💼
 permalink: /projects/
 description:  Soon, you’ll be able to view the projects I’ve been working on.
 nav: true

@@ -77,7 +77,7 @@
                     aria-haspopup="true"
                     aria-expanded="false"
                   >
-                    {{- p.title }}
+                    {{ p.icon | escape }} {{ ' ' }}{{- p.title }} <!-- Icon and title together -->
                     {% if page.title == p.title or has_active_child %}
                       <span class="sr-only">(current)</span>
                     {% endif %}
@@ -88,7 +88,7 @@
                         <div class="dropdown-divider"></div>
                       {% else %}
                         <a class="dropdown-item {% if page.title == child.title %}active{% endif %}" href="{{ child.permalink | relative_url }}">
-                          {{- child.title -}}
+                          {{ child.icon | escape }} {{- child.title }} <!-- Icon and title together -->
                         </a>
                       {% endif %}
                     {% endfor %}
@@ -97,9 +97,8 @@
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
-                  {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
-                    {{- p.title }}
+                  <a class="nav-link" href="{{ p.url | relative_url }}">
+                    {{ p.icon | escape }} {{ ' ' }}{{- p.title }} <!-- Icon and title together -->
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}
@@ -117,7 +116,7 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
-            <!-- Toogle theme mode -->
+            <!-- Toggle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">
                 <i class="ti ti-sun-moon" id="light-toggle-system"></i>
