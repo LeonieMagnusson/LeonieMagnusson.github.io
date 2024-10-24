@@ -4,7 +4,7 @@ title: Fahrzeug
 description: Construction toy
 img: assets/img/1.jpg
 importance: 4
-category: work
+category: toys
 ---
 
 Every project has a beautiful feature showcase page.

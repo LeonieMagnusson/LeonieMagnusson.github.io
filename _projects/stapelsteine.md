@@ -3,9 +3,8 @@ layout: page
 title: Stapelsteine
 description: Tactile game for toddlers
 img: assets/img/9.jpg
-redirect: https://unsplash.com
 importance: 6
-category: work
+category: toys
 ---
 
 Every project has a beautiful feature showcase page.

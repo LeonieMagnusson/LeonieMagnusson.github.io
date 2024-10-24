@@ -4,8 +4,7 @@ title: The Presence
 description: Victorian-style horror board game
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: games
 ---
 
 Every project has a beautiful feature showcase page.

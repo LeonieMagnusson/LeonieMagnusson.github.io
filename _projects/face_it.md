@@ -4,8 +4,7 @@ title: Face it!
 description: Party game about colours
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: games
 ---
 
 Every project has a beautiful feature showcase page.

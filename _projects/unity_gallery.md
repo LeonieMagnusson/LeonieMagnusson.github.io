@@ -4,7 +4,7 @@ title: Unity 3D Art Gallery
 description: Explorative and playful portfolio game
 img: assets/img/7.jpg
 importance: 5
-category: work
+category: games
 ---
 
 Every project has a beautiful feature showcase page.

@@ -4,7 +4,7 @@ title: The Chess King
 description: An interactive children's book teaching the game of chess
 img: assets/img/8.jpg
 importance: 3
-category: work
+category: games
 ---
 
 Every project has a beautiful feature showcase page.

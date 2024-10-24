@@ -1,12 +1,12 @@
 ---
 layout: page
-title: illustrations/art
+title: games
 icon:
-permalink: /illustrations-and-art/
+permalink: /games/
 description:  Soon, you’ll be able to view the projects I’ve been working on.
 nav: true
-nav_order: 3
-display_categories: [illustrations, art]
+nav_order: 2
+display_categories: [games, toys]
 horizontal: false
 ---
 
@@ -46,4 +46,3 @@ horizontal: false
   </div>
 {% endif %}
 </div>
-
