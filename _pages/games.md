@@ -3,7 +3,7 @@ layout: page
 title: games
 icon:
 permalink: /games/
-description:  Soon, you’ll be able to view the projects I’ve been working on.
+description:  As a graduated designer of playing and learning, creating games and toys has always been a core interest of mine. Here, you can see a selection of my most recent game projects.
 nav: true
 nav_order: 2
 display_categories: [games, toys]
