@@ -36,9 +36,7 @@ Stefanie Kretschmer
         {% include figure.liquid loading="eager" path="assets/img/fahrzeug8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">

@@ -8,7 +8,7 @@ middle_name:
 last_name: Magnusson
 email: leonie.magnusson@gmail.com
 description:
-footer_text: This site does not contain cookies 🍪
+footer_text: This site does not contain cookies
 keywords: design, board-games, ui, ux # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /icons/site/favicon-32x32.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

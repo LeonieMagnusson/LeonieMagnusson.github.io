@@ -1,9 +1,9 @@
 ---
 layout: page
-title: illustrations/art
+title: illustration/art
 icon:
 permalink: /illustrations-and-art/
-description:  Soon, you’ll be able to view the projects I’ve been working on.
+description:  Illustraition is a life long passion of mine and part of many of my projects. Here you can see some of them.
 nav: true
 nav_order: 3
 display_categories: [illustrations, art]

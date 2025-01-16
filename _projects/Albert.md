@@ -2,7 +2,7 @@
 layout: page
 title: Albert
 description: Design Internship
-img: assets/img/albert1.jpg
+img: assets/img/albert0.jpg
 importance: 4
 category: work
 ---

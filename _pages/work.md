@@ -5,7 +5,7 @@ icon:
 permalink: /work/
 description:  Soon, you’ll be able to view the projects I’ve been working on.
 nav: true
-nav_order: 4
+nav_order: 1
 display_categories: [work]
 horizontal: false
 ---

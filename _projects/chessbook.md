@@ -3,8 +3,8 @@ layout: page
 title: The Chess King
 description: An interactive children's book teaching the game of chess
 img: assets/img/chess1.jpg
-importance: 5
-category: games
+importance: 2
+category: illustrations
 ---
 
 Chess is one of the oldest still played games in humanhistory. It is a game that has no randomness. Only one player against the other. Chess is both fun and trains logical skills at the same time. The childrensbook “Der Schachkönig“ (the chessking) teaches you the basic chess rules in a new and poetic way, while also helps you to practise them. Every new rule is introduced through a short story that helps to remember it easier.

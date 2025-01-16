@@ -2,7 +2,7 @@
 layout: page
 title: Strawbees
 description: Design Internship
-img: assets/img/strawbees3.jpg
+img: assets/img/strawbees0.jpg
 importance: 5
 category: work
 ---
@@ -12,6 +12,12 @@ I was involved in a variety of tasks. I worked on their Black
 Friday campaign, created social media content, made
 instruction books for their products, and developed a
 prototype for a magazine.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/strawbees3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Throughout my time there, I gained valuable experience
 collaborating with teams responsible for marketing, sales,
