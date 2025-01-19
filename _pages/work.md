@@ -8,6 +8,7 @@ nav: true
 nav_order: 1
 display_categories: [work]
 horizontal: false
+background_image: /assets/img/webBackground.jpg
 ---
 
 

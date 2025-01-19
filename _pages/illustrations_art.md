@@ -8,6 +8,7 @@ nav: true
 nav_order: 3
 display_categories: [illustrations, art]
 horizontal: false
+background_image: /assets/img/webBackground.jpg
 ---
 <style>
 /* Add this style block to apply the background to the entire page */

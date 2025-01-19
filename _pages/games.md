@@ -8,19 +8,8 @@ nav: true
 nav_order: 2
 display_categories: [games, toys]
 horizontal: false
+background_image: /assets/img/webBackground.jpg
 ---
-<style>
-/* Add this style block to apply the background to the entire page */
-body {
-    background-image: url('assets/img/webBackground.jpg'); /* Path to your image */
-    background-size: cover; /* Ensures the image covers the entire screen */
-    background-repeat: no-repeat; /* Prevents the image from tiling */
-    background-attachment: fixed; /* Keeps the image fixed during scrolling */
-    background-position: center; /* Centers the image */
-    color: white; /* Optional: Adjust text colour for better readability */
-}
-</style>
-
 <!-- pages/projects.md -->
 <div class="projects">
 
