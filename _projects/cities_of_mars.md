@@ -6,6 +6,7 @@ img: assets/img/CM0.jpg
 importance: 1
 category: illustrations
 ---
+
 This project was a cooperation with the band Cities of Mars to promote their music.
 
 <div class="row">
@@ -44,5 +45,3 @@ This project was a cooperation with the band Cities of Mars to promote their mus
         {% include figure.liquid loading="eager" path="assets/img/CM7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-

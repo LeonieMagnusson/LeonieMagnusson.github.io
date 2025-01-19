@@ -6,6 +6,7 @@ img: assets/img/avatar7.jpg
 importance: 2
 category: games
 ---
+
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe 
         src="https://www.youtube.com/embed/p6BQvNdEbeg" 

@@ -16,7 +16,12 @@
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}" {% if page.background_image %}style="background-image: url('{{ page.background_image }}'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;"{% endif %}>
+  <body
+    class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}"
+    {% if page.background_image %}
+      style="background-image: url('{{ page.background_image }}'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;"
+    {% endif %}
+  >
     <!-- Header -->
     {% include header.liquid %}
 

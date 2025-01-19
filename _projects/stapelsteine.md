@@ -28,6 +28,3 @@ Stapelsteine (stacking stones) is a game for one to three players. You can play 
         {% include figure.liquid loading="eager" path="assets/img/stapelsteine5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
-

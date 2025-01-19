@@ -6,6 +6,7 @@ img: assets/img/faceIt1web.jpg
 importance: 3
 category: games
 ---
+
 Face it! is a cooprativ board game, in which the players discribe a colour code to each other while only using their mimik. During the game the players have fun and learn more about eachothers individual colour perceptions.
 
 This game was created during the university project „Gesellschaft spielen!“ (playing society!“) in partnership with Emma Brix and project support by Karin Schmidt-Ruhland, Martin Hensel.
@@ -32,11 +33,3 @@ This game was created during the university project „Gesellschaft spielen!“ 
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
-
-
-
-
-
-
-

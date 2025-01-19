@@ -23,8 +23,6 @@ Stefanie Kretschmer
     </div>
 </div>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fahrzeug4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -37,7 +35,6 @@ Stefanie Kretschmer
     </div>
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fahrzeug9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -46,7 +43,3 @@ Stefanie Kretschmer
         {% include figure.liquid loading="eager" path="assets/img/fahrzeug10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
-
-

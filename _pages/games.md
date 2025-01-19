@@ -3,34 +3,41 @@ layout: page
 title: games
 icon:
 permalink: /games/
-description:  As a graduated designer of playing and learning, creating games and toys has always been a core interest of mine. Here, you can see a selection of my most recent game projects.
+description: As a graduated designer of playing and learning, creating games and toys has always been a core interest of mine. Here, you can see a selection of my most recent game projects.
 nav: true
 nav_order: 2
 display_categories: [games, toys]
 horizontal: false
 background_image: /assets/img/webBackground.jpg
 ---
+
 <!-- pages/projects.md -->
 <div class="projects">
 
 <!-- Initialize an empty array for all matching projects -->
+
 {% assign all_categorized_projects = "" | split: "" %}
 
 <!-- Filter projects by categories in display_categories -->
+
 {% for category in page.display_categories %}
-  {% assign categorized_projects = site.projects | where: "category", category %}
+{% assign categorized_projects = site.projects | where: "category", category %}
 
   <!-- Append categorized projects to the all_categorized_projects array -->
-  {% for project in categorized_projects %}
-    {% assign all_categorized_projects = all_categorized_projects | push: project %}
-  {% endfor %}
+
+{% for project in categorized_projects %}
+{% assign all_categorized_projects = all_categorized_projects | push: project %}
+{% endfor %}
 {% endfor %}
 
 <!-- Sort the collected projects by importance -->
+
 {% assign sorted_projects = all_categorized_projects | sort: "importance" %}
 
 <!-- Generate cards for each project -->
+
 {% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}

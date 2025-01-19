@@ -6,6 +6,7 @@ img: assets/img/albert0.jpg
 importance: 4
 category: work
 ---
+
 During my internship at Albert, I developed a DIY
 game-making toy for children called the Analog Game
 Engine. Children between the ages of 4 and 6 now have
@@ -37,7 +38,6 @@ user testing and project planning.
         {% include figure.liquid loading="eager" path="assets/img/albert1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 {% raw %}
 

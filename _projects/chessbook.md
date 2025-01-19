@@ -23,4 +23,3 @@ teached by Gesine Grotrian
         {% include figure.liquid loading="eager" path="assets/img/chess3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-

@@ -26,7 +26,6 @@ was one of the two designers at Strawbees, therefore I had
 the opportunity to contribute to almost all of the design
 projects the company was working on at the time.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/strawbees1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -48,7 +47,6 @@ this project, I worked closely with the sales and marketing
 team and gained valuable insights into social media
 marketing strategies.
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/strawbees4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -59,9 +57,6 @@ marketing strategies.
 </div>
 
 I was deeply involved in creating instructions for various Strawbees builds. Additionally, I designed a logo for Strawbees' new BioPP certificate, used on their packaging.
-
-
-
 
 {% raw %}
 

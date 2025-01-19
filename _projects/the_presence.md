@@ -6,6 +6,7 @@ img: assets/img/pL4.jpg
 importance: 1
 category: games
 ---
+
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe 
         src="https://www.youtube.com/embed/qbDI7YxaLQA" 
@@ -30,7 +31,7 @@ At the end of 2019, Sam asked me if I could help him with some icons and card de
 We quickly realised that a couple of icons and some card layouts wouldn’t do the job. What was really needed was a complete graphic design concept for the whole game that would support both the story, the game play and the overall atmosphere of the game.
 
 Therefore Sam asked me if I wanted to become his fully equal project partner.
-What I found to be interesting about Sam's concept for The Presence from the beginning was the psychological part about the story that he wanted the player to experience. He had this idea that evalness is something that can be found in all humans and therefore it can be understood by humans. I think he wanted to humanise the misunderstood outsiders or those who are called monsters. He kept saying that the Presence is a game about trust. Well, I always thought The Presence is a game about empathy and I guess that was what made me want to work on it. 
+What I found to be interesting about Sam's concept for The Presence from the beginning was the psychological part about the story that he wanted the player to experience. He had this idea that evalness is something that can be found in all humans and therefore it can be understood by humans. I think he wanted to humanise the misunderstood outsiders or those who are called monsters. He kept saying that the Presence is a game about trust. Well, I always thought The Presence is a game about empathy and I guess that was what made me want to work on it.
 
 From 2020 to 2022, we made significant progress on The Presence. We both had plenty of time to dedicate to it. There were no deadlines, no stress—just the pure joy of exploring the world we were creating together. Looking back now, I probably made a hundred different versions of every single component while Sam continually revised the gameplay. But that was okay for us. Creating the game felt like a form of play itself, and I’m glad we had that time because things have become much more serious since then.
 
@@ -43,8 +44,6 @@ Over the next 30 days, we gained the trust of more than 2,000 backers to support
 After the successful Kickstarter campaign, we spent the following months finalising every detail, eventually sending the game off to our production partner, Whatz Games, who helped us perfect our prototype for manufacturing.
 
 Nearly six years have passed since Sam first embarked on this journey. Looking back, we’ve learned many lessons, but the biggest one is this one: No one can make a board game alone.
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -59,7 +58,6 @@ The Presence is a strategic horror-game, set in a place and time where candlelig
 
 One player plays as the Presence, an entity with unknown intentions. It can be either good or evil, which means each game can be fully cooperative or one-versus-all. The others play as the Visitors, who will try to work together to uncover the dark history of the mansion while struggling with darkness, isolation and the constant haunting of the Presence.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/TP-03.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -73,7 +71,7 @@ One player plays as the Presence, an entity with unknown intentions. It can be e
 
 Over three years, I created artwork for the box cover, boards, and more than 100 cards. Many illustrations feature objects and rooms from a Victorian England mansion, the main setting of the game's story.
 
-Other cards depict moments where the spirit characters use their powers, adding a dynamic element to the game. 
+Other cards depict moments where the spirit characters use their powers, adding a dynamic element to the game.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -99,7 +97,3 @@ I designed nine unique pawns, along with special spirit dice and wooden doors fo
         The inlay
     </div>
 </div>
-
-
-
-

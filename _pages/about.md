@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: Design | Illustraiton | Marketing | Board Games
 background_image: /assets/img/webBackground.jpg
-
 ---
 
 <div class="row justify-content-sm-center">

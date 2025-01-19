@@ -3,13 +3,12 @@ layout: page
 title: projects
 icon:
 permalink:
-description:  Soon, you’ll be able to view the projects I’ve been working on.
+description: Soon, you’ll be able to view the projects I’ve been working on.
 nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-
 
 <!-- pages/projects.md -->
 <div class="projects"> 
