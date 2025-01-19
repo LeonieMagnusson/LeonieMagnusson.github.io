@@ -18,9 +18,32 @@ category: games
 </div>
 
 <br>
-In late 2019, my friend Sam Gullman and I embarked on a collaborative journey to develop his board game project, The Presence. Sam focused on refining the game mechanics and overall game design, while I took on the challenge of creating a cohesive graphic design language for the entire game.
+The Presence is a strategic horror-game, set in a place and time where candlelight was the only means to hold back the darkness and the things hiding within. Trust is at the core of the game, creating a feeling of overarching uncertainty and dread.
 
-My contributions included designing an icon font and a decorative font, illustrating over 100 unique cards, and crafting visually engaging game boards. Additionally, I designed the wooden pawns, the plastic insert, and the game’s packaging to ensure a seamless and immersive experience for players. Together, we brought The Presence to life, merging innovative gameplay with a captivating aesthetic.
+One player plays as the Presence, an entity with unknown intentions. It can be either good or evil, which means each game can be fully cooperative or one-versus-all. The others play as the Visitors, who will try to work together to uncover the dark history of the mansion while struggling with darkness, isolation and the constant haunting of the Presence.
+
+<h2>The development process</h2>
+The development of The Presence started in 2018 when my friend Sam Gullman decided to take some time off from his full-time job to pursue one of his lifelong dreams: creating a board game.
+
+At the end of 2019, Sam asked me if I could help him with some icons and card designs for his game. At the time, I was a design student who had worked on a couple of board games. I agreed because it sounded fun and I’ve always loved creating art with friends.
+
+We quickly realised that a couple of icons and some card layouts wouldn’t do the job. What was really needed was a complete graphic design concept for the whole game that would support both the story, the game play and the overall atmosphere of the game.
+
+Therefore Sam asked me if I wanted to become his fully equal project partner.
+What I found to be interesting about Sam's concept for The Presence from the beginning was the psychological part about the story that he wanted the player to experience. He had this idea that evalness is something that can be found in all humans and therefore it can be understood by humans. I think he wanted to humanise the misunderstood outsiders or those who are called monsters. He kept saying that the Presence is a game about trust. Well, I always thought The Presence is a game about empathy and I guess that was what made me want to work on it. 
+
+From 2020 to 2022, we made significant progress on The Presence. We both had plenty of time to dedicate to it. There were no deadlines, no stress—just the pure joy of exploring the world we were creating together. Looking back now, I probably made a hundred different versions of every single component while Sam continually revised the gameplay. But that was okay for us. Creating the game felt like a form of play itself, and I’m glad we had that time because things have become much more serious since then.
+
+In 2023, everything became more focused. We wanted to show the world that we were ready to take the game to the next level. Early on, we saw self-publishing The Presence through crowdfunding as our best option. So, we founded our company, Purple Lantern Games, to give The Presence a publisher and connect us with professionals in the board game industry. We attended board game fairs and conventions, organised online play sessions in Tabletop Simulator, and slowly built a small community following our progress.
+
+We had no money, so we had to do everything ourselves, with the enormous help of our families and friends, who gave us their time, knowledge, talents, and practical support.
+
+In February 2024, after an intense year full of game design, marketing, and me having my first child, we finally launched our Kickstarter campaign. I remember that day vividly. It was the 27th, and Sam was at work while I was at home, refreshing the Kickstarter page. Within minutes, the backer count started climbing. Hundreds of people had waited for the moment our campaign launched and were now pledging. Sam called over Discord, and friends started calling—it was surreal. After the first two hours, we had over 600 backers and were fully funded. Experiencing the support of our community was one of the most magical things imaginable.
+Over the next 30 days, we gained the trust of more than 2,000 backers to support the completion and production of The Presence.
+After the successful Kickstarter campaign, we spent the following months finalising every detail, eventually sending the game off to our production partner, Whatz Games, who helped us perfect our prototype for manufacturing.
+
+Nearly six years have passed since Sam first embarked on this journey. Looking back, we’ve learned many lessons, but the biggest one is this one: No one can make a board game alone.
+
 
 
 <div class="row">
