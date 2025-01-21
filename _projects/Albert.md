@@ -5,6 +5,7 @@ description: Design Internship
 img: assets/img/albert0.jpg
 importance: 4
 category: work
+page_pdf: Recomendaton_Albert.pdf
 ---
 
 During my internship at Albert, I developed a DIY

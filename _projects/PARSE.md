@@ -5,6 +5,7 @@ description: Frontend Developer Position
 img: assets/img/parse1.jpg
 importance: 2
 category: work
+page_pdf: Recommendation_PARSE.pdf
 ---
 
 I worked as a frontend developer for PARSE, the University of Gothenburg's research journal, for three months.

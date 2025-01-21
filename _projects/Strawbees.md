@@ -5,6 +5,7 @@ description: Design Internship
 img: assets/img/strawbees0.jpg
 importance: 5
 category: work
+page_pdf: Recommendation_Strawbees.pdf
 ---
 
 During my 5-month internship at the toy company Strawbees,
