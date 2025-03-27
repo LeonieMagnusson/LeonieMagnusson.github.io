@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Stapelsteine
-description: Tactile game for toddlers
+description: Tactile game for toddlers, <br>Bachelor Project
 img: assets/img/stapelsteine1.jpg
 importance: 6
 category: toys
 ---
 
-Stapelsteine (stacking stones) is a game for one to three players. You can play against each other, or with each other against the game. The set contains 17 soft stones (made of fabric and filled with sand), four wooden cubes and a and a pouch to place put all the parts in. The cubes tell you what you are supposed to build and how to build it. The more stones you stack, the more points you get. Stapelsteine is challenging your fine motor skills and is fun for every age group.
+Stapelsteine (stacking stones) is a sensory game for children aged 2 to 6, designed for one to three players. You can play against each other or work together to beat the game. The set contains 17 soft stones (made of fabric and filled with sand), four wooden cubes, and a pouch to store all the pieces. The cubes tell you what to build and how to build it. The more stones you stack, the more points you earn. Stapelsteine challenges your fine motor skills and provides fun for the whole family.
 
-4th semester, “Sand“ (Sand), project support by Karin Schmidt-Ruhland and Stefanie Kretschmer
+B.A. 4th semester, Sand, project support by Karin Schmidt-Ruhland and Stefanie Kretschmer
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

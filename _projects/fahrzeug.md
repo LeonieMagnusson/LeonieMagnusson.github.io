@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Fahrzeug
-description: Construction toy
+description: Construction toy, <br>Bachelor Project
 img: assets/img/fahrzeug1.jpg
-importance: 4
+importance: 5
 category: toys
 ---
 
@@ -11,7 +11,7 @@ category: toys
 If bricks could drive:
 FAHRZEUG is an innovative building system for adults and children of three years or older. This toy set is all about cars, trains and mobility. All pieces are made of wood or paper. They are easy to assemble, which enables the player to not only build cars and trains, but create a whole world around the vehicles. With FAHRZEUG you can build, paint and of course play! FAHRZEUG’s simple assembly system also makes it suitable to be produced in workshops for untrained workers with special needs.
 
-This was made in partnership with Anne Löwenstein, 5th semester, “Handwerk“ (handcraft), project support by Karin Schmidt-Ruhland,
+This was made in partnership with Anne Löwenstein, B.A. 5th semester, Handwerk (handcraft), project support by Karin Schmidt-Ruhland,
 Stefanie Kretschmer
 
 <div class="row justify-content-sm-center">

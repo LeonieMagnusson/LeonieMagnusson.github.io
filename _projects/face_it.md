@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Face it!
-description: Party game about colours
+description: Party game about colours, <br>Bachelor's thesis
 img: assets/img/faceIt1web.jpg
-importance: 3
+importance: 4
 category: games
 ---
 

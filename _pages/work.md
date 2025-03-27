@@ -3,7 +3,7 @@ layout: page
 title: work
 icon:
 permalink: /work/
-description: this is my work.
+description:
 nav: true
 nav_order: 1
 display_categories: [work]

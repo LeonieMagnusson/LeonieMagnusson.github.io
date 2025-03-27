@@ -246,9 +246,8 @@ ul.task-list input[type="checkbox"] {
 /* Default navbar style (transparent or whatever you want it to be before scrolling) */
 .navbar {
   box-shadow: none;
-  background-color: transparent;
-  background-color: white;
-  opacity: 0.8;
+  background-color: var(--global-dark-color);
+  opacity: 0.6;
 }
 
 .navbar .dropdown-menu {
@@ -482,7 +481,7 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
+        color: var(--global-dark-color) !important;
         background-color: var(--global-theme-color) !important;
       }
     }

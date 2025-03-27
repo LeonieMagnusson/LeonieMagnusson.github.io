@@ -89,11 +89,15 @@ I designed nine unique pawns, along with special spirit dice and wooden doors fo
     </div>
 </div>
 
+The Presence comes with four different booklets: the Rulebook, the Learning Guide, the Campaign Book, and a storybook called The Chronicle. Designing these four books was a challenging graphic design task. All rule-related content needed to be as pedagogical and clear as possible—structure and overview were key. At the same time, it was important to convey the game's atmosphere through these books.
+
+You can take a look at the complete Rulebook and Learning Guide here:
+<a href="https://boardgamegeek.com/boardgame/329543/the-presence/files">BoardGameGeek The Presence</a>
+
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class=" mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/TP-02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        The inlay
-    </div>
 </div>
+
+Designing the inlay for The Presence came with many technical restrictions as well as artistic considerations. For Sam and me, it was important that the components inside the box would be revealed in a certain order to create an element of surprise at the right moment. On the technical side, we had to meet strict requirements regarding box size and production regulations. It was a true puzzle to make everything fit.

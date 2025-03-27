@@ -1,12 +1,12 @@
 ---
 layout: page
-title: games
+title: projects
 icon:
-permalink: /games/
+permalink: /projects/
 description: As a graduated designer of playing and learning, creating games and toys has always been a core interest of mine. Here, you can see a selection of my most recent game projects.
 nav: true
 nav_order: 2
-display_categories: [games, toys]
+display_categories: [games, toys, project]
 horizontal: false
 background_image: /assets/img/webBackground.jpg
 ---
