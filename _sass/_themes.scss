@@ -5,7 +5,7 @@
 @use "sass:color";
 
 :root {
-  --global-dark-color: rgb(0, 11, 29);
+  --global-dark-color: rgba(0, 0, 0, 0.504);
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$white-color};
