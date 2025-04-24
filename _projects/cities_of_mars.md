@@ -3,7 +3,7 @@ layout: page
 title: Cities of Mars
 description: 7 landscape illustraitons of post apocaliptic cities on mars
 img: assets/img/CM0.jpg
-importance: 2
+importance: 3
 category: illustrations
 ---
 

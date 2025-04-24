@@ -3,7 +3,7 @@ layout: page
 title: The Chess King
 description: An interactive children's book teaching the game of chess, <br>Bachelor Project
 img: assets/img/chess1.jpg
-importance: 3
+importance: 4
 category: illustrations
 ---
 
