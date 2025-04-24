@@ -85,8 +85,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$black-color};
-  --global-theme-color: rgb(0, 0, 0);
-  --global-hover-color: rgb(0, 0, 0);
+  --global-theme-color: rgb(214, 145, 133);
+  --global-hover-color: rgb(214, 145, 133);
   --global-hover-text-color: #{$black-color};
   --global-navBar-color: rgba(246, 241, 240, 0.599);
   --global-footer-bg-color: #{$grey-color-dark};
@@ -96,7 +96,7 @@
   --global-divider-color: rgba(255, 255, 255, 0.1);
   --global-card-bg-color: rgb(255, 255, 255);
   --global-highlight-color: rgb(0, 0, 0);
-  --global-back-to-top-bg-color: rgba(
+  --global-back-to-top-bg-color: rgb(214, 145, 133);
     #{color.channel($black-color, "red", $space: rgb)},
     #{color.channel($black-color, "green", $space: rgb)},
     #{color.channel($black-color, "blue", $space: rgb)},
